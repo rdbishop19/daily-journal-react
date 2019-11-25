@@ -1,0 +1,66 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "title": "React - Day 1",
+      "description": "We learned about React Components and how to extend them with classes",
+      "date": "2019-11-18",
+      "moodId": 1,
+      "tags": []
+    },
+    {
+      "id": 2,
+      "title": "React - Day 2",
+      "description": "We setup a simple dog kennel app with a navigation bar and different views",
+      "date": "2019-11-19",
+      "moodId": 2,
+      "tags": []
+    },
+    {
+      "id": 3,
+      "title": "React - Day 3",
+      "description": "We built out the views of the links/routes and added details views for individual components",
+      "date": "2019-11-20",
+      "moodId": 3,
+      "tags": []
+    },
+    {
+      "date": "2019-11-24",
+      "title": "title",
+      "description": "description",
+      "moodId": 1,
+      "tags": [],
+      "id": 4
+    },
+    {
+      "date": "2019-11-24",
+      "title": "title",
+      "description": "apowjfepoaiejfpoaweijf",
+      "moodId": 1,
+      "tags": [],
+      "id": 5
+    },
+    {
+      "date": "2019-11-24",
+      "title": "apoewijfapoewijfapoweijf",
+      "description": "apoewjfapoweijfapowejf",
+      "moodId": 3,
+      "tags": [],
+      "id": 6
+    }
+  ],
+  "moods": [
+    {
+      "id": 1,
+      "label": "Happy"
+    },
+    {
+      "id": 2,
+      "label": "Ok"
+    },
+    {
+      "id": 3,
+      "label": "Sad"
+    }
+  ]
+}
