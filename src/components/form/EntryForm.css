@@ -1,0 +1,8 @@
+form, .new-entry-header {
+    width: 60%;
+    margin: 0 auto;
+}
+
+#date {
+    margin-left: 0px;
+}
